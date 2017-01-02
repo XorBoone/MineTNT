@@ -1,0 +1,7 @@
+name: MineTNT
+main: net.xornick.minetnt.MineTNT
+version: 1.0
+author: XorNick
+commands:
+   quicktnt:
+      description: Fast crafts TNT.
